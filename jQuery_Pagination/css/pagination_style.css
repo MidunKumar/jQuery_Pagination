@@ -1,0 +1,58 @@
+table {
+  border: 1px solid lightgray;
+}
+th,
+td {
+  border: 1px solid lightgray;
+  padding: 5px;
+}
+.pg-normal {
+  color: black;
+  font-weight: normal;
+  text-decoration: none;
+  cursor: pointer;
+}
+.pg-selected {
+  color: #e94107;
+  font-weight: bold;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.page-header {
+  background-color: #7ac0c0 !important;
+  color: #fff;
+  margin-top: -1.5em !important;
+}
+table {
+  border: 1px solid #9c9094;
+}
+
+th,
+td {
+  border: 1px solid #9c9094;
+  color: #fff !important;
+  text-align: center;
+}
+tr,
+td {
+  color: #b3b247 !important;
+}
+
+.header-style {
+  background-color: #007bc4 !important;
+  color: #fff #007bc4 !important;
+}
+.left-panel {
+  margin-top: 3.5em;
+}
+.header-text {
+  margin-top: 2em;
+}
+.right-panel {
+  margin-top: 3.5em;
+}
+#pageNavPosition {
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+}

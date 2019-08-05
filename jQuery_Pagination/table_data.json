@@ -1,0 +1,194 @@
+[
+  {
+    "movies": "Saving Private Ryan",
+    "genre": "Action",
+    "studio": "Paramount",
+    "year": "1988"
+  },
+  {
+    "movies": "Shakespeare in Love",
+    "genre": "Classic",
+    "studio": "Miramax",
+    "year": 1988
+  },
+  {
+    "movies": "Die Another Day",
+    "genre": "Thriller",
+    "studio": "MGM",
+    "year": 2002
+  },
+  {
+    "movies": "Spider-Man",
+    "genre": "Action",
+    "studio": "Sony",
+    "year": 2019
+  },
+  {
+    "movies": "Ice Age",
+    "genre": "Action",
+    "studio": "Sony",
+    "year": 2010
+  },
+  {
+    "movies": "Harry Potter and the Chamber of Secrets",
+    "genre": "Action",
+    "studio": "Sony",
+    "year": 2018
+  },
+  {
+    "movies": "The Fate of the Furious",
+    "genre": "Action",
+    "studio": "Sony",
+    "year": 2015
+  },
+  {
+    "movies": "Wonder Woman",
+    "genre": "Action",
+    "studio": "Sony",
+    "year": 2012
+  },
+  {
+    "movies": "Avengers: Age of Ultron",
+    "genre": "Action",
+    "studio": "Sony",
+    "year": 2009
+  },
+  {
+    "movies": "Furious 7",
+    "genre": "Action",
+    "studio": "Sony",
+    "year": 2005
+  },
+  {
+    "movies": "Jurassic World",
+    "genre": "Action",
+    "studio": "Adventure",
+    "year": 2008
+  },
+  {
+    "movies": "Gravity",
+    "genre": "Adventures",
+    "studio": "Paramount",
+    "year": 2019
+  },
+  {
+    "movies": "Iron Man 3",
+    "genre": "Adventures",
+    "studio": "Paramount",
+    "year": 1991
+  },
+  {
+    "movies": "Ice Age: The Meltdown",
+    "genre": "Animation",
+    "studio": "Paramount",
+    "year": 1992
+  },
+  {
+    "movies": "The Unbearable Lightness of Being",
+    "genre": "Romance",
+    "studio": "Paramount",
+    "year": 1990
+  },
+  {
+    "movies": "Before Sunrise",
+    "genre": "Romance",
+    "studio": "Universal Studios",
+    "year": 1996
+  },
+  {
+    "movies": "City of Angels",
+    "genre": "Romance",
+    "studio": "Universal Studios",
+    "year": 2015
+  },
+  {
+    "movies": "Benny & Joon",
+    "genre": "Romance",
+    "studio": "Universal Studios",
+    "year": 2014
+  },
+  {
+    "movies": "Old School",
+    "genre": "Comedy",
+    "studio": "Universal Studios",
+    "year": 2002
+  },
+  {
+    "movies": "Best in Show",
+    "genre": "Comedy",
+    "studio": "Universal Studios",
+    "year": 2001
+  },
+  {
+    "movies": "About a Boy",
+    "genre": "Comedy",
+    "studio": "Universal Studios",
+    "year": 2012
+  },
+  {
+    "movies": "The Heat",
+    "genre": "Comedy",
+    "studio": "Walt Disney",
+    "year": 2013
+  },
+  {
+    "movies": "The Big Blue",
+    "genre": "Sports",
+    "studio": "Sony",
+    "year": 2009
+  },
+  {
+    "movies": "The Wrestler",
+    "genre": "Sports",
+    "studio": "Walt Disney",
+    "year": 2006
+  },
+  {
+    "movies": "Warrior",
+    "genre": "Sports",
+    "studio": "Sony",
+    "year": 2005
+  },
+  {
+    "movies": "The Boxer",
+    "genre": "Sports",
+    "studio": "Walt Disney",
+    "year": 2001
+  },
+  {
+    "movies": "The Hurricane",
+    "genre": "Sports",
+    "studio": "Walt Disney",
+    "year": 1996
+  },
+  {
+    "movies": "Lagaan: Once Upon a Time in India",
+    "genre": "Sports",
+    "studio": "Walt Disney",
+    "year": 1998
+  },
+  {
+    "movies": "Shaolin Soccer",
+    "genre": "Sports",
+    "studio": "Walt Disney",
+    "year": 2011
+  },
+  {
+    "movies": "The Martian",
+    "genre": "Sci-Fi",
+    "studio": "Walt Disney",
+    "year": 2009
+  },
+  {
+    "movies": "Interstellar",
+    "genre": "Sci-Fi",
+    "studio": "Walt Disney",
+    "year": 2010
+  },
+  {
+    "movies": "Captan Marvel",
+    "genre": "Sci-Fi",
+    "studio": "Walt Disney",
+    "year": 2006
+  }
+]

@@ -1,0 +1,71 @@
+<!DOCTYPE >
+<HTML>
+  <HEAD>
+    <TITLE>Pagination</TITLE>
+    <META http-equiv="Content-Script-Type" />
+    <!-- <link rel="stylesheet" href="css/styles.css" /> -->
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="css/pagination_style.css" />
+    <style></style>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  </HEAD>
+  <body style="background-color: #041c2c !important">
+    <div class="page-header text-center header-style">
+      <div class="row">
+        <div class="col-sm-2 header-text">
+          <h1>VUDU</h1>
+        </div>
+        <div class="col-sm-4">
+          <div class="row left-panel">
+            <div class="col-sm-2">
+              <h4>Movies</h4>
+            </div>
+            <div class="col-sm-2">
+              <h4>Tv</h4>
+            </div>
+            <div class="col-sm-2">
+              <h4>Free</h4>
+            </div>
+            <div class="col-sm-3">
+              <h4>My Vudu</h4>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3"></div>
+        <div class="col-sm-2">
+          <div class="row right-panel">
+            <div class="col-sm-5">
+              <h4>Redeem</h4>
+            </div>
+            <div class="col-sm-5">
+              <h4>Sign In</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-10">
+          <table class="table" id="movie_data">
+            <tr>
+              <th>Movies</th>
+              <th>Genre</th>
+              <th>Studio</th>
+              <th>Year</th>
+            </tr>
+          </table>
+
+          <div id="pageNavPosition"></div>
+        </div>
+      </div>
+    </div>
+
+    <script src="js/jQuery_Pagination.js" type="text/javascript"></script>
+  </body>
+</HTML>
